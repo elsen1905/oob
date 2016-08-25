@@ -1,0 +1,29 @@
+﻿1.OOP (Object Oriented Programming) nədir?
+---obyekt yonumlu proqramlama ,en birinci bu hardan cixdi niye gerekli oldu deye biraz geriye gedek ..1960 ci ilin sonlarina dogru yazilan proqramlari boyumesi ile boyuk problemler ortaya cixdi cunki eyni kodu bawqa sehifelerde defelerle lazim olduqda tekrar yazmali olurduq .. meselen 600 setrlik bir kodu her sehifede tekrardan yaziriq ve bu proqramin istifadesini cetinlesdirirdi bu zaman ortaya OOP(OBJECT ORIENTED PROGRAMMING (OBYEKT YONUMLU PROQRAQLAMA))cixdi bu isimizi defelerde asanlasdirdi .asanlasmasina sebeb ise kodlarimizi CLASS LAR icerisene yazaraq daha da elverisli hala getiriri
+
+OOP 3 hisseden ibaretdir 
+1 ENCAPSULATION 
+--- obyekt haqqinda bilgiler bu hisseede yer almaqdadir (meselen telebenin adi soyadi telefon nomresi qiymet cedveli kimi)
+2.INHERITANCE 
+--- adinda  gorunduyu kimi bir obyektin bir basqa obyekt uzerine qurulmasidir yanii deyerlerinin bir miras kimi basqasina oturmek
+3.POLYMORPHISM
+---mueyyen bir islemin  bir cok obyekt tarafindan isdifade edilmesi 
+
+-------------------------------------------
+
+3.PHP class nədir?
+--- ortaq ozelliklere sahib olan obyektlerin bir araya getirildiyi bir butun 
+
+
+-------------------------------------------
+
+4.PHP obyekt nədir?
+---obyekt ise 1 class dan emele gelen ve onun ozelliklerini dasiyan bir modeldir ve tekrar isdifade edilecek parcalardir 
+
+
+--------------------------------------------
+ 
+ 2.Prosedural programlama nədir?
+
+
+---Ilk olaraq kesfedilen bir proqramla usuludur. bu usulda kod setirleri yuxaridan asagiya dogru melum bir sira ile isleyer ..kodun temeli metodlardir .. metodlar gorulecek isin diger islere olan bagliligini minimum sekilde olusturulmasi uzerine qurulur.. gunumuzde bundan istifade azalamisdir  
